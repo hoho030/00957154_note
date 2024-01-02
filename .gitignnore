@@ -1,0 +1,5 @@
+# 檔案名稱 .gitignore
+
+
+# 忽略 00957154_note 目錄下的 node_modules
+00957154_note\node_modules
