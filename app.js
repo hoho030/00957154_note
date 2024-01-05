@@ -5,7 +5,6 @@ const logger = require('morgan');
 
 const express = require('express');
 const app = express();
-const port = process.env.PORT || 3000;
 
 app.use(cookieParser());
 app.use(logger('dev'));
